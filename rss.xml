@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dfpvideo="http://api.google.com/dfpvideo" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" version="2.0">
+   <channel>
+      <title>Vevo mRSS Feed</title>
+      <description>Videos from the world's leading all-premium music video and entertainment platform.</description>
+      <link>https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8</link>
+      <dfpvideo:version>2</dfpvideo:version>
+      <atom:link rel="self" href="https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
+      <atom:link rel="next" href="https://api.vevo.com/catalog/dfp.xml?dfpThisIsNotACycle=jrt55mk78sgrzf7jkmfhqjcvh8&amp;session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
+      <item>
+         <guid isPermalink="true">http://vevo.ly/9PEV3P</guid>
+         <title>Nelson Gonçalves - Beija-me, Quero Dormir (Pseudo Video)</title>
+         <pubDate>Wed, 20 Nov 2019 14:19:35 GMT</pubDate>
+         <dfpvideo:contentId>benju123</dfpvideo:contentId>
+         <dfpvideo:lastModifiedDate>Wed, 20 Nov 2019 17:26:40 GMT</dfpvideo:lastModifiedDate>
+         <dfpvideo:owner name="sme-brasil-ltda" />
+         <dfpvideo:keyvalues key="title" type="string" value="Benju Video Test Title Metadata" />
+         <dfpvideo:keyvalues key="artist" type="string" value="benju atist" />
+         <dfpvideo:keyvalues key="content-owner" type="string" value="sme-brasil-ltda" />
+         <dfpvideo:keyvalues key="genre" type="string" value="mpb" />
+         <dfpvideo:keyvalues key="flag" type="string" value="test flag 123! +-+-" />
+         <dfpvideo:keyvalues key="year" type="string" value="1976" />
+         <dfpvideo:keyvalues key="vid-lang" type="string" value="pt" />
+         <media:status state="active" />
+         <media:content url="http://vevo.ly/9PEV3P" duration="60" />
+         <media:thumbnail url="http://img.cache.vevo.com/thumb/cms/1e0726f87e094e1758a3ce5306a75c6b20192011141928603.jpg" />
+      </item>
+   </channel>
+</rss>
