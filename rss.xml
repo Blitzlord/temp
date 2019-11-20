@@ -9,12 +9,12 @@
       <atom:link rel="next" href="https://api.vevo.com/catalog/dfp.xml?dfpThisIsNotACycle=jrt55mk78sgrzf7jkmfhqjcvh8&amp;session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
       <item>
          <guid isPermalink="true">http://vevo.ly/9PEV3P</guid>
-         <title>Nelson Gonçalves - Beija-me, Quero Dormir (Pseudo Video)</title>
-         <pubDate>Wed, 20 Nov 2019 14:19:35 GMT</pubDate>
-         <dfpvideo:contentId>benju123</dfpvideo:contentId>
+         <title>benju video 1</title>
+         <pubDate>Wed, 20 Nov 2019 15:19:35 GMT</pubDate>
+         <dfpvideo:contentId>benju124</dfpvideo:contentId>
          <dfpvideo:lastModifiedDate>Wed, 20 Nov 2019 17:26:40 GMT</dfpvideo:lastModifiedDate>
          <dfpvideo:owner name="sme-brasil-ltda" />
-         <dfpvideo:keyvalues key="title" type="string" value="Benju Video Test Title Metadata" />
+         <dfpvideo:keyvalues key="title" type="string" value="Benju Video Test Title Metadata 2" />
          <dfpvideo:keyvalues key="artist" type="string" value="benju atist" />
          <dfpvideo:keyvalues key="content-owner" type="string" value="sme-brasil-ltda" />
          <dfpvideo:keyvalues key="genre" type="string" value="mpb" />
