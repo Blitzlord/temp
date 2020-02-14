@@ -25,5 +25,73 @@
          <media:content url="http://vevo.ly/9PEV3P" duration="60" />
          <media:thumbnail url="http://img.cache.vevo.com/thumb/cms/1e0726f87e094e1758a3ce5306a75c6b20192011141928603.jpg" />
       </item>
+      <item>
+<title>
+<![CDATA[ DICE Awards 2020 ]]>
+</title>
+<description>
+<![CDATA[
+Tune into the 23rd Annual D.I.C.E. Awards, where summit attendees, nominees and industry luminaries gather to celebrate the best games from 2019! From Death Stranding to Devil May Cry 5 and Luigi's Mansion 3 to Untitled Goose Game, stay tuned to find out this year's winners!
+]]>
+</description>
+<pubDate>Fri, 14 Feb 2020 06:15:00 +0000</pubDate>
+<guid isPermalink="false">461c59bd980fc171215872c9de66398a</guid>
+<link>https://www.ign.com/videos/dice-awards-2020</link>
+<media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1280/461c59bd980fc171215872c9de66398a-7500000-1581661547.mp4" medium="video" isDefault="true" type="video/mp4" height="720" width="1280" duration="5124"/>
+<media:description type="plain">
+<![CDATA[
+Tune into the 23rd Annual D.I.C.E. Awards, where summit attendees, nominees and industry luminaries gather to celebrate the best games from 2019! From Death Stranding to Devil May Cry 5 and Luigi's Mansion 3 to Untitled Goose Game, stay tuned to find out this year's winners!
+]]>
+</media:description>
+<media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/10/ignlive-diceawards2020blogroll-1581373896772.jpg"/>
+<dfpvideo:contentID>461c59bd980fc171215872c9de66398a</dfpvideo:contentID>
+<media:status>active</media:status>
+<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+<dfpvideo:lastModifiedDate>Fri, 14 Feb 2020 06:25:47 +0000</dfpvideo:lastModifiedDate>
+<dfpvideo:keyvalues key="video_category" value="gaming" type="string"/>
+<dfpvideo:keyvalues key="tags" value="dice-awards" type="string"/>
+<dfpvideo:keyvalues key="tags" value="dice-summit" type="string"/>
+<dfpvideo:keyvalues key="tags" value="dice" type="string"/>
+<dfpvideo:keyvalues key="video_series" value="ign-live" type="string"/>
+</item>
+<item>
+<title>
+<![CDATA[ Sonic the Hedgehog: End Credits Scene Explained ]]>
+</title>
+<description>
+<![CDATA[
+Spoilers follow as we dissect the end credits scene for Sonic the Hedgehog: The Movie! What happened to Sonic and Dr. Robotnik, and how does it set up a potential Sonic sequel?
+]]>
+</description>
+<pubDate>Fri, 14 Feb 2020 06:00:00 +0000</pubDate>
+<guid isPermalink="false">0f3e009b1343eb26728b87642485a766</guid>
+<link>
+https://www.ign.com/videos/sonic-the-hedgehog-end-credits-scene-explained
+</link>
+<media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1920/0f3e009b1343eb26728b87642485a766-3906000-1581647181.mp4" medium="video" isDefault="true" type="video/mp4" height="1080" width="1920" duration="377"/>
+<media:description type="plain">
+<![CDATA[
+Spoilers follow as we dissect the end credits scene for Sonic the Hedgehog: The Movie! What happened to Sonic and Dr. Robotnik, and how does it set up a potential Sonic sequel?
+]]>
+</media:description>
+<media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/13/sonicthehedgehogendcreditssceneexplained36190303sonicendcreditsexplainedspoilers-1581646896466.jpg"/>
+<dfpvideo:contentID>0f3e009b1343eb26728b87642485a766</dfpvideo:contentID>
+<media:status>active</media:status>
+<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+<dfpvideo:lastModifiedDate>Fri, 14 Feb 2020 06:00:01 +0000</dfpvideo:lastModifiedDate>
+<dfpvideo:thirdPartyContentId cms="youtube" id="CXOLviww63w"/>
+<dfpvideo:keyvalues key="video_category" value="entertainment" type="string"/>
+<dfpvideo:keyvalues key="objectId" value="148938" type="string"/>
+<dfpvideo:keyvalues key="objectSlug" value="sonic-the-hedgehog-the-movie" type="string"/>
+<dfpvideo:keyvalues key="tags" value="sonic-the-hedgehog-end-credits-scene-explained" type="string"/>
+<dfpvideo:keyvalues key="tags" value="sonic-end-credits" type="string"/>
+<dfpvideo:keyvalues key="tags" value="sonic-ending" type="string"/>
+<dfpvideo:keyvalues key="tags" value="sonic-ending-explained" type="string"/>
+<dfpvideo:keyvalues key="tags" value="tails" type="string"/>
+<dfpvideo:keyvalues key="tags" value="mushroom-planet" type="string"/>
+<dfpvideo:keyvalues key="objectType" value="movie" type="string"/>
+<dfpvideo:keyvalues key="genre" value="action" type="string"/>
+<dfpvideo:keyvalues key="genre" value="adventure" type="string"/>
+</item>
    </channel>
 </rss>
