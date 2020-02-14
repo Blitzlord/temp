@@ -1,97 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dfpvideo="http://api.google.com/dfpvideo" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" version="2.0">
-   <channel>
-      <title>Vevo mRSS Feed</title>
-      <description>Videos from the world's leading all-premium music video and entertainment platform.</description>
-      <link>https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8</link>
-      <dfpvideo:version>2</dfpvideo:version>
-      <atom:link rel="self" href="https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
-      <atom:link rel="next" href="https://api.vevo.com/catalog/dfp.xml?dfpThisIsNotACycle=jrt55mk78sgrzf7jkmfhqjcvh8&amp;session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
-      <item>
-         <guid isPermalink="true">http://vevo.ly/9PEV3P</guid>
-         <title>benju video 1</title>
-         <pubDate>Wed, 20 Nov 2019 15:19:35 GMT</pubDate>
-         <dfpvideo:contentId>benju124</dfpvideo:contentId>
-         <dfpvideo:lastModifiedDate>Wed, 20 Nov 2019 17:26:40 GMT</dfpvideo:lastModifiedDate>
-         <dfpvideo:owner name="sme-brasil-ltda" />
-         <dfpvideo:keyvalues key="title" type="string" value="Benju Video Test Title Metadata 2" />
-         <dfpvideo:keyvalues key="artist" type="string" value="benju atist" />
-         <dfpvideo:keyvalues key="content-owner" type="string" value="sme-brasil-ltda" />
-         <dfpvideo:keyvalues key="genre" type="string" value="mpb" />
-         <dfpvideo:keyvalues key="flag" type="string" value="test flag 123! +-+-" />
-         <dfpvideo:keyvalues key="year" type="string" value="1976" />
-         <dfpvideo:keyvalues key="vid-lang" type="string" value="pt" />
-         <media:status state="active" />
-         <media:content url="http://vevo.ly/9PEV3P" duration="60" />
-         <media:thumbnail url="http://img.cache.vevo.com/thumb/cms/1e0726f87e094e1758a3ce5306a75c6b20192011141928603.jpg" />
-      </item>
-      <item>
-<title>
-<![CDATA[ DICE Awards 2020 ]]>
-</title>
-<description>
-<![CDATA[
+    <channel>
+        <title>Vevo mRSS Feed</title>
+        <description>Videos from the world's leading all-premium music video and entertainment platform.</description>
+        <link>https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8</link>
+        <dfpvideo:version>2</dfpvideo:version>
+        <atom:link rel="self" href="https://api.vevo.com/catalog/dfp.xml?session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
+        <atom:link rel="next" href="https://api.vevo.com/catalog/dfp.xml?dfpThisIsNotACycle=jrt55mk78sgrzf7jkmfhqjcvh8&amp;session=05q8kq0q5r5ka0xemagh7ca5j8&amp;token=kvhwsrrq5wqaytgdjky668hhp8" />
+        <item>
+            <guid isPermalink="true">http://vevo.ly/9PEV3P</guid>
+            <title>benju video 1</title>
+            <pubDate>Wed, 20 Nov 2019 15:19:35 GMT</pubDate>
+            <dfpvideo:contentId>benju124</dfpvideo:contentId>
+            <dfpvideo:lastModifiedDate>Wed, 20 Nov 2019 17:26:40 GMT</dfpvideo:lastModifiedDate>
+            <dfpvideo:owner name="sme-brasil-ltda" />
+            <dfpvideo:keyvalues key="title" type="string" value="Benju Video Test Title Metadata 2" />
+            <dfpvideo:keyvalues key="artist" type="string" value="benju atist" />
+            <dfpvideo:keyvalues key="content-owner" type="string" value="sme-brasil-ltda" />
+            <dfpvideo:keyvalues key="genre" type="string" value="mpb" />
+            <dfpvideo:keyvalues key="flag" type="string" value="test flag 123! +-+-" />
+            <dfpvideo:keyvalues key="year" type="string" value="1976" />
+            <dfpvideo:keyvalues key="vid-lang" type="string" value="pt" />
+            <media:status state="active" />
+            <media:content url="http://vevo.ly/9PEV3P" duration="60" />
+            <media:thumbnail url="http://img.cache.vevo.com/thumb/cms/1e0726f87e094e1758a3ce5306a75c6b20192011141928603.jpg" />
+        </item>
+        <item>
+            <title><![CDATA[ DICE Awards 2020 ]]></title>
+            <description><![CDATA[
 Tune into the 23rd Annual D.I.C.E. Awards, where summit attendees, nominees and industry luminaries gather to celebrate the best games from 2019! From Death Stranding to Devil May Cry 5 and Luigi's Mansion 3 to Untitled Goose Game, stay tuned to find out this year's winners!
-]]>
-</description>
-<pubDate>Fri, 14 Feb 2020 06:15:00 +0000</pubDate>
-<guid isPermalink="false">461c59bd980fc171215872c9de66398a</guid>
-<link>https://www.ign.com/videos/dice-awards-2020</link>
-<media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1280/461c59bd980fc171215872c9de66398a-7500000-1581661547.mp4" medium="video" isDefault="true" type="video/mp4" height="720" width="1280" duration="5124"/>
-<media:description type="plain">
-<![CDATA[
+]]></description>
+            <pubDate>Fri, 14 Feb 2020 06:15:00 +0000</pubDate>
+            <guid isPermalink="false">461c59bd980fc171215872c9de66398a</guid>
+            <link>https://www.ign.com/videos/dice-awards-2020</link>
+            <media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1280/461c59bd980fc171215872c9de66398a-7500000-1581661547.mp4" medium="video" isDefault="true" type="video/mp4" height="720" width="1280" duration="5124" />
+            <media:description type="plain"><![CDATA[
 Tune into the 23rd Annual D.I.C.E. Awards, where summit attendees, nominees and industry luminaries gather to celebrate the best games from 2019! From Death Stranding to Devil May Cry 5 and Luigi's Mansion 3 to Untitled Goose Game, stay tuned to find out this year's winners!
-]]>
-</media:description>
-<media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/10/ignlive-diceawards2020blogroll-1581373896772.jpg"/>
-<dfpvideo:contentID>461c59bd980fc171215872c9de66398a</dfpvideo:contentID>
-<media:status>active</media:status>
-<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
-<dfpvideo:lastModifiedDate>Fri, 14 Feb 2020 06:25:47 +0000</dfpvideo:lastModifiedDate>
-<dfpvideo:keyvalues key="video_category" value="gaming" type="string"/>
-<dfpvideo:keyvalues key="tags" value="dice-awards" type="string"/>
-<dfpvideo:keyvalues key="tags" value="dice-summit" type="string"/>
-<dfpvideo:keyvalues key="tags" value="dice" type="string"/>
-<dfpvideo:keyvalues key="video_series" value="ign-live" type="string"/>
-</item>
-<item>
-<title>
-<![CDATA[ Sonic the Hedgehog: End Credits Scene Explained ]]>
-</title>
-<description>
-<![CDATA[
+]]></media:description>
+            <media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/10/ignlive-diceawards2020blogroll-1581373896772.jpg" />
+            <dfpvideo:contentID>461c59bd980fc171215872c9de66398a</dfpvideo:contentID>
+        </item>
+        <item>
+            <title><![CDATA[ Sonic the Hedgehog: End Credits Scene Explained ]]></title>
+            <description><![CDATA[
 Spoilers follow as we dissect the end credits scene for Sonic the Hedgehog: The Movie! What happened to Sonic and Dr. Robotnik, and how does it set up a potential Sonic sequel?
-]]>
-</description>
-<pubDate>Fri, 14 Feb 2020 06:00:00 +0000</pubDate>
-<guid isPermalink="false">0f3e009b1343eb26728b87642485a766</guid>
-<link>
+]]></description>
+            <pubDate>Fri, 14 Feb 2020 06:00:00 +0000</pubDate>
+            <guid isPermalink="false">0f3e009b1343eb26728b87642485a766</guid>
+            <link>
 https://www.ign.com/videos/sonic-the-hedgehog-end-credits-scene-explained
 </link>
-<media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1920/0f3e009b1343eb26728b87642485a766-3906000-1581647181.mp4" medium="video" isDefault="true" type="video/mp4" height="1080" width="1920" duration="377"/>
-<media:description type="plain">
-<![CDATA[
+            <media:content url="https://assets14.ign.com/videos/zencoder/2020/02/13/1920/0f3e009b1343eb26728b87642485a766-3906000-1581647181.mp4" medium="video" isDefault="true" type="video/mp4" height="1080" width="1920" duration="377" />
+            <media:description type="plain"><![CDATA[
 Spoilers follow as we dissect the end credits scene for Sonic the Hedgehog: The Movie! What happened to Sonic and Dr. Robotnik, and how does it set up a potential Sonic sequel?
-]]>
-</media:description>
-<media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/13/sonicthehedgehogendcreditssceneexplained36190303sonicendcreditsexplainedspoilers-1581646896466.jpg"/>
-<dfpvideo:contentID>0f3e009b1343eb26728b87642485a766</dfpvideo:contentID>
-<media:status>active</media:status>
-<dfpvideo:cuepoints>0</dfpvideo:cuepoints>
-<dfpvideo:lastModifiedDate>Fri, 14 Feb 2020 06:00:01 +0000</dfpvideo:lastModifiedDate>
-<dfpvideo:thirdPartyContentId cms="youtube" id="CXOLviww63w"/>
-<dfpvideo:keyvalues key="video_category" value="entertainment" type="string"/>
-<dfpvideo:keyvalues key="objectId" value="148938" type="string"/>
-<dfpvideo:keyvalues key="objectSlug" value="sonic-the-hedgehog-the-movie" type="string"/>
-<dfpvideo:keyvalues key="tags" value="sonic-the-hedgehog-end-credits-scene-explained" type="string"/>
-<dfpvideo:keyvalues key="tags" value="sonic-end-credits" type="string"/>
-<dfpvideo:keyvalues key="tags" value="sonic-ending" type="string"/>
-<dfpvideo:keyvalues key="tags" value="sonic-ending-explained" type="string"/>
-<dfpvideo:keyvalues key="tags" value="tails" type="string"/>
-<dfpvideo:keyvalues key="tags" value="mushroom-planet" type="string"/>
-<dfpvideo:keyvalues key="objectType" value="movie" type="string"/>
-<dfpvideo:keyvalues key="genre" value="action" type="string"/>
-<dfpvideo:keyvalues key="genre" value="adventure" type="string"/>
-</item>
-   </channel>
+]]></media:description>
+            <media:thumbnail url="https://assets1.ignimgs.com/thumbs/userUploaded/2020/2/13/sonicthehedgehogendcreditssceneexplained36190303sonicendcreditsexplainedspoilers-1581646896466.jpg" />
+            <dfpvideo:contentID>0f3e009b1343eb26728b87642485a766</dfpvideo:contentID>
+            <media:status>active</media:status>
+            <dfpvideo:cuepoints>0</dfpvideo:cuepoints>
+            <dfpvideo:lastModifiedDate>Fri, 14 Feb 2020 06:00:01 +0000</dfpvideo:lastModifiedDate>
+            <dfpvideo:thirdPartyContentId cms="youtube" id="CXOLviww63w" />
+        </item>
+    </channel>
 </rss>
